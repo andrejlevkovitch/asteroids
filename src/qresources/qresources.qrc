@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/image">
+    <file alias="bullet.png">image/bullet.png</file>
+    <file alias="space_shiep.png">image/space_shiep.png</file>
+    <file alias="stone1.png">image/stone1.png</file>
+    <file alias="stone2.png">image/stone2.png</file>
+    <file alias="stone3.png">image/stone3.png</file>
+    <file alias="blow.png">image/blow.png</file>
+  </qresource>
+  <qresource prefix="/sound">
+  </qresource>
+  <qresource prefix="/style">
+  </qresource>
+</RCC>

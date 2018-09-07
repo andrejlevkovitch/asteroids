@@ -1,0 +1,5 @@
+build/
+doxygen/
+lib/
+bin/
+compile_commands.json
